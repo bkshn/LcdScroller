@@ -1,4 +1,4 @@
-*
+/*
   LcdScroller.cpp - Library to display scrolling text on LCD screen from Arduino
   Created by backslashn, April 24, 2016
   MIT Public License
